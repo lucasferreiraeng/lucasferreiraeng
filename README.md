@@ -14,7 +14,7 @@
 const lucas = {
     role: "Software Engineer",
     stack: ["TypeScript", "Next.js", "React", "Supabase"],
-    background: "Mechanical Engineer → Materials MSc → Robotics Nanodegree → SWE",
+    background: "Mechanical Engineer → Materials MSc → Project Engineer → SWE",
     location: "Brazil 🇧🇷",
     contact: "lucasferreiralimasantos@gmail.com",
 };
@@ -72,20 +72,19 @@ const lucas = {
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasferreiraeng&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c9d1d9&ring_color=a855f7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreiraeng&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasferreiraeng&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c9d1d9&ring_color=a855f7" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasferreiraeng&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com/?user=lucasferreiraeng&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasferreiraeng&bg_color=0d1117&color=a855f7&line=7c3aed&point=a855f7&area=true&area_color=7c3aed&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasferreiraeng&bg_color=0d1117&color=a855f7&line=7c3aed&point=a855f7&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph" />
 </div>
 
 ---
@@ -95,11 +94,11 @@ const lucas = {
 
 <p align="center">
   <samp>
-    🎓 Mechanical Engineer · MSc in Materials Engineering · Robotics Software Nanodegree
+    🎓 Mechanical Engineer · MSc in Materials Engineering · Project Engineer
     <br />
-    From engineering atoms and machines to engineering software and products.
+    From engineering and machines to engineering software and products.
     <br />
-    Building SaaS products that solve real-world problems.
+    Building SaaS products that solve real problems.
   </samp>
 </p>
 
@@ -119,11 +118,6 @@ const lucas = {
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lucasferreiraeng/lucasferreiraeng/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:7c3aed,100:a855f7&height=120&section=footer" />
