@@ -68,27 +68,6 @@ const lucas = {
 
 ---
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasferreiraeng&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c9d1d9&ring_color=a855f7" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=lucasferreiraeng&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasferreiraeng&bg_color=0d1117&color=a855f7&line=7c3aed&point=a855f7&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph" />
-</div>
-
----
-
 <!-- Background -->
 <h2 align="center">🧬 Origin Story</h2>
 
